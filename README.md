@@ -5,9 +5,9 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaz-pranto" alt="imtiaz-pranto" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [http://imtiaz-pranto.github.io](http://imtiaz-pranto.github.io)
+ 👨‍💻 All of my projects are available at [http://imtiaz-pranto.github.io](http://imtiaz-pranto.github.io)
 
-- 📫 How to reach me **ipranto9@gmail.com**
+ 📫 How to reach me **ipranto9@gmail.com**
 
 <h3>Connect with me:</h3>
 <p>
